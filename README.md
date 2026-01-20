@@ -19,8 +19,7 @@ portfolio/ │ ├── index.html ├── style.css ├── script.js ├�
 Follow these steps to run the project on your local machine:
 
 Clone the repository
-git clone https://github.com/toha-citizen/portfolio.git
-
+git clone: https://github.com/Ibtesam-Labib/My-Portfolio-Website
 Open the project folder
 cd portfolio
 
@@ -28,7 +27,7 @@ Open index.html in your browser
 
 🌐 Live Preview
 Live website link:
-https://toha-citizen.github.io/portfolio/
+https://ibtesam-labib.github.io/My-Portfolio-Website/
 
 ##Google Sheet Link--->Below
 
@@ -36,12 +35,13 @@ https://docs.google.com/spreadsheets/u/0/?ec=wgc-sheets-globalnav-goto
 
 🎨 Figma Design
 Figma prototype link:
+https://www.figma.com/design/SvlyPCvl8AMdgQdVmGnU9t/Untitled?node-id=0-1&p=f&t=WonhJMzgf2SG2Zle-0
 
-https://www.figma.com/design/J6yb7PtDB7wnYVKdLH5AxX/Untitled?node-id=0-1&p=f&t=Yva3F5Qhh4ccco7D-0
+
 
 📧 Contact
 If you want to connect or give feedback, feel free to reach out.
 
 ⭐ Acknowledgement
 This project is created for learning and personal branding purposes.
-Figma: https://www.figma.com/design/SvlyPCvl8AMdgQdVmGnU9t/Untitled?node-id=0-1&p=f&t=WonhJMzgf2SG2Zle-0
+
